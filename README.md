@@ -1,1 +1,3 @@
-# DIAL (data intensive applications lens)
+# DIAL
+
+## DIAL (data intensive applications lens)
