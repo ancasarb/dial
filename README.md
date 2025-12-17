@@ -1,6 +1,6 @@
 **DIAL** (data intensive applications lens)
 
-__Visualising hidden systems that make modern life possible - and what happens when they fail.__
+_Visualising hidden systems that make modern life possible - and what happens when they fail._
 
 #### Submarine cables
 
