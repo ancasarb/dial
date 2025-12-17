@@ -1,8 +1,7 @@
-DIAL (data intensive applications lens)
+**DIAL** (data intensive applications lens)
 
-Visualising hidden systems that make modern life possible — and what happens when they fail.
-
+_Visualising hidden systems that make modern life possible — and what happens when they fail.
+_
 #### Submarine cables
 
-
-#dial #infrastructure #modern
+#dial #modern #infrastructure
